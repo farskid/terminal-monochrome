@@ -1,5 +1,4 @@
 # terminal-monochrome
-# monotone-terminal
 
 This is a color scheme based on the idea that syntax highlighting is a sham.
 
