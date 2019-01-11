@@ -1,0 +1,22 @@
+{
+    "name": "terminal-monochrome",
+    "displayName": "Terminal Monochrome",
+    "description": "A monotone colorscheme based on old school terminal colors",
+    "publisher": "sstadick",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Terminal Monochrome",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Terminal Monochrome-color-theme.json"
+            }
+        ]
+    }
+}
