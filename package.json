@@ -18,5 +18,9 @@
                 "path": "./themes/Terminal Monochrome-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sstadick/terminal-monochrome"
     }
 }
