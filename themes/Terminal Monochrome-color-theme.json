@@ -38,7 +38,8 @@
 		"dropdown.foreground": "#fff",
 		// editor
 		// This is the main background color
-		"editor.background": "#193549",
+		"editor.background": "#282828",
+		// "editor.background": "#193549",
 		// this is the main text colour
 		"editor.foreground": "#33FF00",
 		// Okay this part is confusing as heck!
