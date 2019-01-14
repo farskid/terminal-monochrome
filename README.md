@@ -9,9 +9,8 @@ The main colors used come from ye odle terminal colors:
 ![phosterm](./screenshots/phos_term.png)
 
 Here are a few screenshots in case you are lazy like me:
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![python](./screenshots/python_term.png)
+![go](./screenshots/go_term.png)
+![markdown](./screenshots/readme_term.png)
 
 **Enjoy!**
