@@ -2,7 +2,7 @@
     "name": "terminal-monochrome",
     "displayName": "Terminal Monochrome",
     "description": "A monotone colorscheme based on old school terminal colors",
-    "publisher": "sstadick",
+    "publisher": "ducktape",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.30.0"
